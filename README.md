@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Header](./[![cc7a08e69d13b336b8b3a729a47aa681](https://github.com/user-attachments/assets/3ae6353a-0a59-4f72-adaf-69aa834f731a)
+])
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-prasad27) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@haruanime27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b220027@nitsikkim.ac.in) 
 
